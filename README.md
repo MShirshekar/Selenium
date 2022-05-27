@@ -1,4 +1,4 @@
-## Selenium Project
+## Selenium Project (automate tests across browsers for web applications)
 
 first of all, we need to install the required libraries so run down commands in your terminal:
 																								
